@@ -1,0 +1,9 @@
+
+data/.DS_Store
+data/hysets/HYSETS_2020_QC_stations.nc
+data/hysets/HYSETS_watershed_boundaries/Changes.txt
+data/hysets/HYSETS_watershed_boundaries/HYSETS_watershed_boundaries_20200730.cpg
+data/hysets/HYSETS_watershed_boundaries/HYSETS_watershed_boundaries_20200730.dbf
+data/hysets/HYSETS_watershed_boundaries/HYSETS_watershed_boundaries_20200730.shp
+data/hysets/HYSETS_watershed_boundaries/HYSETS_watershed_boundaries_20200730.shx
+data/hysets/HYSETS_watershed_properties.txt
